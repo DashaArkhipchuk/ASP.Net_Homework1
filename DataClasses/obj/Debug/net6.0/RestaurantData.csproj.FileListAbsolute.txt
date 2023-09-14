@@ -1,0 +1,11 @@
+D:\ASP.Net\Homework\DataClasses\bin\Debug\net6.0\RestaurantData.deps.json
+D:\ASP.Net\Homework\DataClasses\bin\Debug\net6.0\RestaurantData.dll
+D:\ASP.Net\Homework\DataClasses\bin\Debug\net6.0\RestaurantData.pdb
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\RestaurantData.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\RestaurantData.AssemblyInfoInputs.cache
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\RestaurantData.AssemblyInfo.cs
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\RestaurantData.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\RestaurantData.dll
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\refint\RestaurantData.dll
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\RestaurantData.pdb
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\ref\RestaurantData.dll

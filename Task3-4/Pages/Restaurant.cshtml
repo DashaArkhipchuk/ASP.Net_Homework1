@@ -1,0 +1,49 @@
+﻿@page
+@model RestaurantModel
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant List</title>
+    <style>
+
+        ul.restaurant-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li.restaurant-item {
+            border: 1px solid #ccc;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h4 {
+            margin-top: 0;
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Restaurant List</h1>
+    </div>
+    <div class="container">
+        <ul class="restaurant-list">
+            @foreach (var restaurant in Model.Restaurants)
+            {
+                <li class="restaurant-item">
+                    <h4>@restaurant.Name</h4>
+                    <p>@restaurant.Address</p>
+                </li>
+            }
+        </ul>
+    </div>
+</body>
+</html>

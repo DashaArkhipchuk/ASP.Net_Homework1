@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task3-4/1.0.0": {
+        "dependencies": {
+          "DataClasses": "1.0.0"
+        },
+        "runtime": {
+          "Task3-4.dll": {}
+        }
+      },
+      "DataClasses/1.0.0": {
+        "runtime": {
+          "DataClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task3-4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

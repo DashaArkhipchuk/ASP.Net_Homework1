@@ -1,0 +1,11 @@
+D:\ASP.Net\Homework\DataClasses\bin\Debug\net6.0\DataClasses.deps.json
+D:\ASP.Net\Homework\DataClasses\bin\Debug\net6.0\DataClasses.dll
+D:\ASP.Net\Homework\DataClasses\bin\Debug\net6.0\DataClasses.pdb
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\DataClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\DataClasses.AssemblyInfoInputs.cache
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\DataClasses.AssemblyInfo.cs
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\DataClasses.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\DataClasses.dll
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\refint\DataClasses.dll
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\DataClasses.pdb
+D:\ASP.Net\Homework\DataClasses\obj\Debug\net6.0\ref\DataClasses.dll
