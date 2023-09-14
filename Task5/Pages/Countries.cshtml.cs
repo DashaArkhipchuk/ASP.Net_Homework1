@@ -11,7 +11,7 @@ namespace Task5.Pages
 
         public void OnGet()
         {
-            List<Country> Countries = new List<Country>
+            Countries = new List<Country>
             {
                 new Country
                 {
